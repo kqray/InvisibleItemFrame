@@ -1,0 +1,12 @@
+name: InvisibleItemFrame
+version: '${project.version}'
+main: de.kqray.invisibleitemframe.InvisibleItemFrame
+api-version: 1.18
+authors: [ Kqray ]
+commands:
+  CraftInvisibleItemFrame:
+    aliases: [cif]
+  AddInvisibleItemFrameRecipe:
+    aliases: [addifr]
+  GiveInvisibleItemFrame:
+    aliases: [giif]
